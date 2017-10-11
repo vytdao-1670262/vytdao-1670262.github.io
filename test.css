@@ -1,0 +1,60 @@
+body {
+	background-image: url("sos.png");
+	background-color: thistle;
+}
+
+p {
+
+}
+
+h3 {
+
+}
+
+li {
+
+}
+
+a {
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: none;
+}
+#Header {
+	width: 500px;
+	margin: 0px auto 10px auto;
+	border: solid 8px black;
+	text-align: center;
+	background-color: MediumSlateBlue;
+}
+#Header h1
+{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+}
+#LeftNav {
+	width: 400px;
+	border: solid 8px black;
+	float: left; 
+	text-align: center;
+	padding-bottom: 8px;
+	background-color: MediumSlateBlue;
+}
+#LeftNav img {
+
+}
+#Content {
+	width: 700px;
+	border: solid 8px black;
+	float: left;
+	text-align: center;
+	padding: 15px;
+	background-color: MediumSlateBlue;
+
+}
+#Footer {
+	text-align: center;
+}
